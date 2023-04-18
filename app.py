@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit import option_menu
+from streamlit_option_menu import option_menu
 import eng_flamingo
 import eng_vistas
 import physics
